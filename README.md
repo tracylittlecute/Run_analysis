@@ -3,7 +3,7 @@ This is the code for getting tidy data gleaned by Samsung wearable equipment in 
 
 The raw data can be accessed via https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-In the tidy data sumbitted, we have 6 columes:\\
+In the tidy data sumbitted, we have 6 columes: <br>
 (1) activity: int. 1,2,3,4,5,6  ## the number of activity in which data was recorded in the experiment\\
 (2) subject: int. 1,2,...,30  ## the number of subjects in the experiement\\
 (3) variable: char. ## variable of data recorded in the experiment\\
